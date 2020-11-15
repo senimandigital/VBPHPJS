@@ -1,0 +1,10 @@
+a_window_main = -515, 65, 521, 712, Z, 25, 25, 1061, 672, C
+window_floater_command = -134, 141, 902, 804, , 19, 3, 1055, 666, C
+window_palette_database = 175, 175, 1211, 838, C, 125, 125, 1161, 788, C
+window_palette_binding = 100, 100, 1173, 763, C, 125, 125, 1161, 788, C
+window_palette_properties = 107, 226, 1143, 889, C, 275, 275, 1311, 938, C
+window_palette_file = 0, 0, 0, 0, C, 132, 174, 731, 630, C
+window_builder_server_behavior = 0, 0, 0, 0, C, 44, 58, 635, 506, C
+window_palette_properties_full = 0, 0, 0, 0, C, 66, 87, 657, 535, C
+a_variable_global = 0, 0, 0, 0, C
+window_floater_command_tree = 0, 0, 0, 0, C, 88, 116, 679, 564, C
