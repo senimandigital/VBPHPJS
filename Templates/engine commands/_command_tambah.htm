@@ -1,0 +1,50 @@
+<head>
+<title>Command Baru</title>
+<script type="text/javascript" src="../../Templates/assets/JQuery/1.12.4.js"> </script>
+</head>
+<form method="get" action="_command_tambah.htm" id="form_connection_new" step="1">
+<table frame="box">
+  <tbody>
+    <tr>
+      <td><label for="command_name">Command Name</label></td>
+      <td><input name="command_name" type="text" /></td>
+      </tr>
+    <tr>
+      <td><label for="username">Copy From Command</label></td>
+      <td><select name="command_copy" id="command_copy">
+        <option>--- Select Command Name --</option>
+      </select>
+      </td>
+      </tr>
+  </tbody>
+</table>
+<input type="hidden" name="step" value="2" />
+</form>
+<form id="sss" step="2">
+<p>akk</p>
+</form>
+<script>
+$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (results==null) {
+       return null;
+    }
+    return decodeURI(results[1]) || 0;
+}
+
+$('[step]').each(function(){
+ if ( $.urlParam('step') == null) {
+	 if ($(this).attr('step') != "1") {
+	     $(this).remove();
+	 }
+ } else if( $.urlParam('step') != $(this).attr('step') ) {
+     $(this).remove();
+   }
+})
+
+var a = 'Nilai a';
+function clickedOK() {
+ alert( window.location.href );
+ // alert( $.urlParam('command_name') );
+}
+</script>
