@@ -27,3 +27,9 @@ Hapus saja komponen yang bikin error, misal anda menggunakan Windows 7 dan tidak
 Apabila errornya terlalu berat, maka gunakan virtual machine dan instal Windows XP. harus-nya Visual Basic bisa di install dengan benar pada Virtual Machine.
 
 Silahkan di oprek di ancurin, kalo ada apa2 download lagi aja simple.
+
+## Pemutakhiran
+
+Webbrowser bawaan aplikasi umumnya versi jadul, sehingga anda perlu berfikir seolah-olah anda ngoding Javascript 20 Tahun yang lalu. Banyak fungsi-fungsi webbrowser moderen yang belum tersedia. Untuk memutakhirkan webbrowser anda perlu melihat dokumentasi Browser Mozilla Firefox.
+
+Copy paste script javascriptnya ke file Magic.JS, maka browsernya akan mendukung perintah kekinian seperti perintah: Object.keys()
