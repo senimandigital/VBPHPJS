@@ -20,7 +20,7 @@ Apabila webbrowser error, klik kanan dan pilih properties untuk mengetahui file 
 
 Untuk menu yang tidak aktif, tinggalkan dulu dan coba menu lain yang aktif. lalu copi paste kodenya dan sisipkan ke menu yang tidak aktif dan lakukan perubahan argument sesuai file html yang ingin kita load melalui menu yang belum aktif tadi.
 
-## Penanganan Eror Berat
+## Penanganan Error Berat
 
 Hapus saja komponen yang bikin error, misal anda menggunakan Windows 7 dan tidak menginstal visual basic secara benar(Menggunakan VB Portable). Eh ya VB Portabel di internet banyak yang abal-abal. Karena yang nulis artikel ga test run tu aplikasi sebelum sahe post orang lain.
 
