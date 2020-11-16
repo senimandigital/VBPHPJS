@@ -34,7 +34,9 @@ Webbrowser bawaan aplikasi umumnya versi jadul, sehingga anda perlu berfikir seo
 
 Copy paste script javascriptnya ke file Magic.JS, maka browsernya akan mendukung perintah kekinian seperti perintah: Object.keys()
 
-## Berkonstribusi
-Mengganti mainmenu dengan JQuery Dropdown Menu
-Mengganti Palette Database, File Dengan JQuery Tree Menu
+## Cara Explore dan Berkonstribusi
+Mengganti mainmenu dengan JQuery Dropdown Menu,
+Mengganti Palette Database, File Dengan JQuery Tree Menu,
+Menambahkan Toolbar Dengan JQuery Tabs,
+Menambahkan Toolbox Dengan JQuery Accordion
 
