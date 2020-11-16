@@ -10,15 +10,15 @@ Templates untuk meletakan program utama yang kita tulis menggunakan html dan jav
 
 Javascript tidak bisa memanipulasi Visual Basic Secara Langsung
 
-Visual Basic bisa mengendalikan apapun didalam webbrowser, Visual Basic Bisa menangkap nilai Variable Javascript, Membaca Nilai pada Kontrol Input Html didalam Webbrowser.
+Visual Basic bisa mengendalikan apapun didalam WebBrowser, Visual Basic Bisa menangkap nilai Variable Javascript, Membaca Nilai pada Kontrol Input Html didalam WebBrowser.
 
-Untuk membuat integrasi visual basic perlu dibuat menangkap perubahan pada browser, misal pada browser ada variabel $perintah_buat_vb = "hapus_file:nama_file.txt" maka Visual Basic yang kita program untuk menjembut nilai pada variable $perintah_buat_vb lalu buat visual basic menghapus file yang dimaksud.
+Untuk membuat integrasi, Visual Basic perlu dibuat menangkap perubahan pada WebBrowser, misal pada Browser ada Variabel $perintah_buat_vb = "hapus_file:nama_file.txt" maka Visual Basic yang kita program untuk menjemput nilai pada variable $perintah_buat_vb lalu kita buat Visual Basic menghapus file yang dimaksud.
 
 ## Penanganan Error Ringan
 
-Apabila webbrowser error, klik kanan dan pilih properties untuk mengetahui file mana yang diload oleh webbroser. jika tidak ada filenya tinggal buat saja file-nya.
+Apabila WebBrowser Error, klik kanan dan pilih properties untuk mengetahui file mana yang diload oleh WebBrowser. Jika tidak ada file-nya tinggal buat saja file-nya.
 
-Untuk menu yang tidak aktif, tinggalkan dulu dan coba menu lain yang aktif. lalu copi paste kodenya dan sisipkan ke menu yang tidak aktif dan lakukan perubahan argument sesuai file html yang ingin kita load melalui menu yang belum aktif tadi.
+Untuk menu yang tidak aktif, tinggalkan dulu dan coba menu lain yang aktif. Lalu copi paste kodenya dan sisipkan ke menu yang tidak aktif tadi dan lakukan perubahan argument sesuai file html yang ingin kita load melalui menu yang belum aktif tadi.
 
 ## Penanganan Error Berat
 
@@ -43,7 +43,7 @@ Menambahkan Toolbox Dengan JQuery Accordion.
 Tidak ada analisis khusus untuk pengembangan proyek ini, untuk pengembangan kita bisa mencontoh Fitur pada Aplikasi Dreamweaver untuk semua hal apasaja fitur Dreamweaver adakah dokumentasinya yang mudah kita pahami... ? ada dialamat http://dreamweaver.senimandigital.com/ . Beda-nya proyek ini dari Dreamweaver adalah Dreamweaver Main Aplikasi-nya dibuat/ditulis menggunakan Visual C++. Dreamweaver berbayar, sedangkan proyek ini gratis dan Main Aplikasi dari VBPHPJS juga Opensource, sehingga bisa dikostumasi dengan sangat extreme.
 
 ## Dokumentasi
-Untuk dokumentasi dan tutorial pengembangan anda cukup fokus mempelajari API dari Javascript Plugins yang berhasi di integrasikan seperti:
+Untuk dokumentasi dan tutorial pengembangan anda cukup fokus mempelajari API dari Javascript Plugins yang berhasil di integrasikan seperti:
 
 https://codemirror.net/doc/manual.html#api 
 https://www.tiny.cloud/docs-3x/api/class_tinyMCEPopup.html/ 
