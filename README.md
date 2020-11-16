@@ -33,3 +33,8 @@ Silahkan di oprek di ancurin, kalo ada apa2 download lagi aja simple.
 Webbrowser bawaan aplikasi umumnya versi jadul, sehingga anda perlu berfikir seolah-olah anda ngoding Javascript 20 Tahun yang lalu. Banyak fungsi-fungsi webbrowser moderen yang belum tersedia. Untuk memutakhirkan webbrowser anda perlu melihat dokumentasi Browser Mozilla Firefox.
 
 Copy paste script javascriptnya ke file Magic.JS, maka browsernya akan mendukung perintah kekinian seperti perintah: Object.keys()
+
+## Berkonstribusi
+Mengganti mainmenu dengan JQuery Dropdown Menu
+Mengganti Palette Database, File Dengan JQuery Tree Menu
+
