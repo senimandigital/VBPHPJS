@@ -43,9 +43,9 @@ Menambahkan Toolbox Dengan JQuery Accordion
 ## Dokumentasi
 Untuk dokumentasi dan tutorial pengembangan anda cukup fokus mempelajari API dari Javascript Plugins yang berhasi di integrasikan seperti:
 
-https://codemirror.net/doc/manual.html#api
+https://codemirror.net/doc/manual.html#api 
+https://www.tiny.cloud/docs-3x/api/class_tinyMCEPopup.html/ 
+https://api.jquery.com/ 
+https://jgraph.github.io/mxgraph/docs/js-api/files/index-txt.html
 
-https://www.tiny.cloud/docs-3x/api/class_tinyMCEPopup.html/
-
-https://api.jquery.com/
-
+Menguasai keempat extension Javascript ini jauh lebih menjamin keterpakaian ilmu didunia kera dari pada mempelajari hal medasar tentang Javascript.
