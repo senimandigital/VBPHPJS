@@ -50,4 +50,4 @@ https://www.tiny.cloud/docs-3x/api/class_tinyMCEPopup.html/
 https://api.jquery.com/ 
 https://jgraph.github.io/mxgraph/docs/js-api/files/index-txt.html
 
-Menguasai keempat extension Javascript ini jauh lebih menjamin keterpakaian ilmu didunia kerja dari pada mempelajari hal medasar tentang Javascript.
+Menguasai keempat extension Javascript ini jauh lebih menjamin keterpakaian ilmu didunia kerja dari pada mempelajari hal mendasar tentang Javascript.
