@@ -30,7 +30,7 @@ Silahkan di oprek di ancurin, kalo ada apa2 download lagi aja simple.
 
 ## Pemutakhiran
 
-Webbrowser bawaan aplikasi umumnya versi jadul, sehingga anda perlu berfikir seolah-olah anda ngoding Javascript 20 Tahun yang lalu. Banyak fungsi-fungsi webbrowser moderen yang belum tersedia. Untuk memutakhirkan webbrowser anda perlu melihat dokumentasi Browser Mozilla Firefox.
+Webbrowser bawaan aplikasi umum-nya versi jadul, sehingga anda perlu berfikir seolah-olah anda ngoding Javascript 20 Tahun yang lalu. Banyak fungsi-fungsi webbrowser moderen yang belum tersedia. Untuk memutakhirkan webbrowser anda perlu melihat dokumentasi Browser Mozilla Firefox.
 
 Copy paste script javascriptnya ke file Magic.JS, maka browsernya akan mendukung perintah kekinian seperti perintah: Object.keys()
 
@@ -38,7 +38,9 @@ Copy paste script javascriptnya ke file Magic.JS, maka browsernya akan mendukung
 Mengganti mainmenu dengan JQuery Dropdown Menu.
 Mengganti Palette Database, Palette File Dengan JQuery Tree Menu,
 Menambahkan Toolbar Dengan JQuery Tabs,
-Menambahkan Toolbox Dengan JQuery Accordion
+Menambahkan Toolbox Dengan JQuery Accordion.
+
+Tidak ada analisis khusus untuk pengembangan proyek ini, untuk pengembangan kita bisa mencontoh Fitur pada Aplikasi Dreamweaver untuk semua hal apasaja fitur dreamweaver adakah dokumentasinya yang mudah kita pahami ada dialamat http://dreamweaver.senimandigital.com/ . Beda-nya proyek ini dari Dreamweaver adalah Dreamweaver Main Aplikasi-nya dibuat/ditulis menggunakan Visual C++. Dreamweaver berbayar, sedangkan proyek ini gratis dan Main Aplikasinya juga Opensource sehingga bisa menjadi sangat extreme.
 
 ## Dokumentasi
 Untuk dokumentasi dan tutorial pengembangan anda cukup fokus mempelajari API dari Javascript Plugins yang berhasi di integrasikan seperti:
