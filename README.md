@@ -40,7 +40,7 @@ Mengganti Palette Database, Palette File Dengan JQuery Tree Menu,
 Menambahkan Toolbar Dengan JQuery Tabs,
 Menambahkan Toolbox Dengan JQuery Accordion.
 
-Tidak ada analisis khusus untuk pengembangan proyek ini, untuk pengembangan kita bisa mencontoh Fitur pada Aplikasi Dreamweaver untuk semua hal apasaja fitur dreamweaver adakah dokumentasinya yang mudah kita pahami ada dialamat http://dreamweaver.senimandigital.com/ . Beda-nya proyek ini dari Dreamweaver adalah Dreamweaver Main Aplikasi-nya dibuat/ditulis menggunakan Visual C++. Dreamweaver berbayar, sedangkan proyek ini gratis dan Main Aplikasinya juga Opensource sehingga bisa menjadi sangat extreme.
+Tidak ada analisis khusus untuk pengembangan proyek ini, untuk pengembangan kita bisa mencontoh Fitur pada Aplikasi Dreamweaver untuk semua hal apasaja fitur Dreamweaver adakah dokumentasinya yang mudah kita pahami... ? ada dialamat http://dreamweaver.senimandigital.com/ . Beda-nya proyek ini dari Dreamweaver adalah Dreamweaver Main Aplikasi-nya dibuat/ditulis menggunakan Visual C++. Dreamweaver berbayar, sedangkan proyek ini gratis dan Main Aplikasi dari VBPHPJS juga Opensource, sehingga bisa dikostumasi dengan sangat extreme.
 
 ## Dokumentasi
 Untuk dokumentasi dan tutorial pengembangan anda cukup fokus mempelajari API dari Javascript Plugins yang berhasi di integrasikan seperti:
