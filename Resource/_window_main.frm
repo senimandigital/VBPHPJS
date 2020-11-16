@@ -173,71 +173,71 @@ Begin VB.Form a_window_main
          Caption         =   "Toolbox"
       End
    End
-   Begin VB.Menu menuitem_help 
+   Begin VB.Menu mainmenu_help 
       Caption         =   "Help"
-      Begin VB.Menu menuitem_help_tool 
+      Begin VB.Menu mainmenu_help_tool 
          Caption         =   "Tool"
-         Begin VB.Menu menuitem_help_tool_command 
+         Begin VB.Menu mainmenu_help_tool_command 
             Caption         =   "Command"
          End
-         Begin VB.Menu menuitem_help_tool_library 
+         Begin VB.Menu mainmenu_help_tool_library 
             Caption         =   "Library"
          End
-         Begin VB.Menu menuitem_help_tool_server_behavior 
+         Begin VB.Menu mainmenu_help_tool_server_behavior 
             Caption         =   "Server Behavior"
          End
-         Begin VB.Menu menuitem_help_tool_snippet 
+         Begin VB.Menu mainmenu_help_tool_snippet 
             Caption         =   "Snippet"
          End
-         Begin VB.Menu menuitem_help_tool_Template 
+         Begin VB.Menu mainmenu_help_tool_Template 
             Caption         =   "Template"
          End
       End
-      Begin VB.Menu menuitem_help_window 
+      Begin VB.Menu mainmenu_help_window 
          Caption         =   "Window"
-         Begin VB.Menu menuitem_help_window_database 
+         Begin VB.Menu mainmenu_help_window_database 
             Caption         =   "Database"
          End
-         Begin VB.Menu menuitem_help_window_binding 
+         Begin VB.Menu mainmenu_help_window_binding 
             Caption         =   "Binding"
          End
-         Begin VB.Menu menuitem_help_window_files 
+         Begin VB.Menu mainmenu_help_window_files 
             Caption         =   "Files"
          End
          Begin VB.Menu sparator 
             Caption         =   "-"
          End
-         Begin VB.Menu menuitem_help_window_option 
+         Begin VB.Menu mainmenu_help_window_option 
             Caption         =   "Option"
          End
       End
-      Begin VB.Menu menuitem_help_plugins 
+      Begin VB.Menu mainmenu_help_plugins 
          Caption         =   "Plugins"
-         Begin VB.Menu menuitem_help_plugins_codemirror 
+         Begin VB.Menu mainmenu_help_plugins_codemirror 
             Caption         =   "CodeMirror"
          End
-         Begin VB.Menu menuitem_help_plugins_jquery 
+         Begin VB.Menu mainmenu_help_plugins_jquery 
             Caption         =   "JQuery"
          End
-         Begin VB.Menu menuitem_help_plugins_magicjs 
+         Begin VB.Menu mainmenu_help_plugins_magicjs 
             Caption         =   "MagicJS"
          End
-         Begin VB.Menu menuitem_help_plugins_mxgraph 
+         Begin VB.Menu mainmenu_help_plugins_mxgraph 
             Caption         =   "MxGraph"
          End
-         Begin VB.Menu menuitem_help_plugins_tinymce 
+         Begin VB.Menu mainmenu_help_plugins_tinymce 
             Caption         =   "TinyMCE"
          End
       End
-      Begin VB.Menu menuitem_help_sparator 
+      Begin VB.Menu mainmenu_help_sparator 
          Caption         =   "-"
       End
-      Begin VB.Menu menuitem_help_tentang 
+      Begin VB.Menu mainmenu_help_tentang 
          Caption         =   "Tentang"
-         Begin VB.Menu menuitem_help_tentang_proyek 
+         Begin VB.Menu mainmenu_help_tentang_proyek 
             Caption         =   "Proyek"
          End
-         Begin VB.Menu menuitem_help_tentang_vbphpjs 
+         Begin VB.Menu mainmenu_help_tentang_vbphpjs 
             Caption         =   "VBPHPJS"
          End
       End
